@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1731525526218,"sparkVersion":"3.5.3","uid":"VectorAssembler_fb083776032d","paramMap":{"outputCol":"assembledFeatures","inputCols":["PM2_5","PM10","NO","NO2","NOx","NH3","CO","SO2","O3","Benzene","Toluene","Xylene"]},"defaultParamMap":{"outputCol":"VectorAssembler_fb083776032d__output","handleInvalid":"error"}}

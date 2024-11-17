@@ -5,7 +5,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the trained RandomForestClassifier model
-model = joblib.load('rf_model.pkl')
+model = joblib.load('rf_pl_hp_ml.pkl')
 
 
 # Load the trained RandomForestClassifier model with pipeline and hyperparameter
